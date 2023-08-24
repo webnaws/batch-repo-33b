@@ -1,7 +1,0 @@
-mon
-tue
-wed
-thus
-fri
-sat
-sun
